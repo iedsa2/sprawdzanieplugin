@@ -1,0 +1,12 @@
+name: Sprawdzanie
+version: 1.0
+main: pl.twojanazwa.sprawdzanie.Main
+api-version: 1.20
+commands:
+  sprawdz:
+    description: Sprawdź gracza lub otwórz GUI
+    usage: /sprawdz [gracz]
+  setroomsprawdzanie:
+    description: Ustawia pokój sprawdzania
+  przyznajesie:
+    description: Gracz przyznaje się do cheatów
