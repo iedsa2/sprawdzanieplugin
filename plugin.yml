@@ -9,3 +9,4 @@ commands:
     description: Ustawia pokoj sprawdzania
   przyznajesie:
     description: Przyznanie sie gracza
+# test trigger build
